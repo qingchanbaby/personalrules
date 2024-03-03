@@ -1,0 +1,8 @@
+rules:
+# 自定义规则
+  - DOMAIN-KEYWORD,coemn,🖥️ EMBY    
+  - DOMAIN-KEYWORD,odysseyplus,🖥️ EMBY  
+  - DOMAIN-KEYWORD,polodns,🖥️ EMBY
+  - DOMAIN-KEYWORD,emby,🖥️ EMBY
+  - DOMAIN-KEYWORD,wavse,🖥️ EMBY
+  - DOMAIN-KEYWORD,ddys,🖥️ EMBY
