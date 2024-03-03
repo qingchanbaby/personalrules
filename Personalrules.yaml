@@ -1,5 +1,6 @@
-rules:
-# 自定义规则
+payload:
+  # 内容：emby
+  # 数量：6条
   - DOMAIN-KEYWORD,coemn,🖥️ EMBY    
   - DOMAIN-KEYWORD,odysseyplus,🖥️ EMBY  
   - DOMAIN-KEYWORD,polodns,🖥️ EMBY
