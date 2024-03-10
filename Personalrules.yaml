@@ -1,9 +1,9 @@
 payload:
   # 内容：emby
   # 数量：6条
-  - DOMAIN-KEYWORD,coemn,🖥️ EMBY    
-  - DOMAIN-KEYWORD,odysseyplus,🖥️ EMBY  
-  - DOMAIN-KEYWORD,polodns,🖥️ EMBY
-  - DOMAIN-KEYWORD,emby,🖥️ EMBY
+  - DOMAIN-KEYWORD,coemn,🖥️ 个人规则    
+  - DOMAIN-KEYWORD,odysseyplus,🖥️ 个人规则  
+  - DOMAIN-KEYWORD,polodns,🖥️ 个人规则
+  - DOMAIN-KEYWORD,emby,🖥️ 个人规则
   - DOMAIN-KEYWORD,wavse,DIRECT
   - DOMAIN-KEYWORD,ddys,🛠️ 手动选择
