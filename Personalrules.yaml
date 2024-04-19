@@ -1,10 +1,10 @@
 payload:
   # 内容：emby
-  # 数量：7条
-  - DOMAIN-KEYWORD,coemn,🖥️ 个人规则    
-  - DOMAIN-KEYWORD,odysseyplus,🖥️ 个人规则  
-  - DOMAIN-KEYWORD,polodns,🖥️ 个人规则
-  - DOMAIN-KEYWORD,emby,🖥️ 个人规则
-  - DOMAIN-KEYWORD,jmsooo,🖥️ 个人规则
-  - DOMAIN-KEYWORD,ddys,🖥️ 个人规则
-  - DOMAIN-KEYWORD,koyso,🎯 全球直连
+  # 数量：6条
+  - DOMAIN-KEYWORD,coemn
+  - DOMAIN-KEYWORD,odysseyplus
+  - DOMAIN-KEYWORD,polodns
+  - DOMAIN-KEYWORD,emby
+  - DOMAIN-KEYWORD,jmsooo
+  - DOMAIN-KEYWORD,ddys
+ 
