@@ -1,4 +1,5 @@
-paylode:
+payload:
+  # 内容：fake-ip-fillter
     - "*.lan"
     - "*.localdomain"
     - "*.example"
