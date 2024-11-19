@@ -3,8 +3,10 @@ payload:
   # 数量：6条
   - DOMAIN-KEYWORD,coemn
   - DOMAIN-KEYWORD,odysseyplus
-  - DOMAIN-KEYWORD,polodns
+  - DOMAIN-KEYWORD,poloemby
   - DOMAIN-KEYWORD,emby
   - DOMAIN-KEYWORD,jmsooo
   - DOMAIN-KEYWORD,123456
+  - DOMAIN-KEYWORD,viclub
+  - DOMAIN-KEYWORD,term
  
