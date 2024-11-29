@@ -1,6 +1,6 @@
 payload:
   # 内容：emby
-  # 数量：6条
+  # 数量：9条
   - DOMAIN-KEYWORD,coemn
   - DOMAIN-KEYWORD,odysseyplus
   - DOMAIN-KEYWORD,poloemby
@@ -9,4 +9,5 @@ payload:
   - DOMAIN-KEYWORD,123456
   - DOMAIN-KEYWORD,viclub
   - DOMAIN-KEYWORD,term
+  - DOMAIN-KEYWORD,ikuramoe
  
