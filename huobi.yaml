@@ -1,4 +1,6 @@
 payload:
+  # 内容：huobi
+  # 数量：4条
   - DOMAIN-SUFFIX,huobiasia.vip
   - DOMAIN-SUFFIX,huobigroup.com
   - DOMAIN-SUFFIX,huobitoken.com
