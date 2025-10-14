@@ -1,5 +1,5 @@
 payload:
-DOMAIN-SUFFIX,huobiasia.vip
-DOMAIN-SUFFIX,huobigroup.com
-DOMAIN-SUFFIX,huobitoken.com
-DOMAIN-KEYWORD,huobi
+  - DOMAIN-SUFFIX,huobiasia.vip
+  - DOMAIN-SUFFIX,huobigroup.com
+  - DOMAIN-SUFFIX,huobitoken.com
+  - DOMAIN-KEYWORD,huobi
